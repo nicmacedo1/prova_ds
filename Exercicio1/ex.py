@@ -1,0 +1,5 @@
+print("-" * 40)
+print("Nome da escola: Etec Darcy Pereira")
+print("-" * 40)
+print("Nome aluno: Nicolas Fernando | Turma: B")
+print("-" * 40)
